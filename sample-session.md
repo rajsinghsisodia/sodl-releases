@@ -9,7 +9,7 @@ SODL output — that's one of the rules the prompt sets.)
 
 **You:** *(paste ADOPT.md)*
 
-**Agent:** Installed `sodl 0.1.0-internal.21`. Registered the MCP server.
+**Agent:** Installed `sodl` (latest release). Registered the MCP server.
 Following SODL's playbook — analyzing your contracts now.
 
 Your system, as SODL derived it (model page opened in your browser —
